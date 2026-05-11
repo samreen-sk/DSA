@@ -11,4 +11,8 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/samreen-sk/DSA/tree/main/0061-rotate-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 <!---LeetCode Topics End-->
