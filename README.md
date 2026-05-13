@@ -29,4 +29,20 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
