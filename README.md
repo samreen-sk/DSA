@@ -35,6 +35,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
@@ -59,4 +60,20 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samreen-sk/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 <!---LeetCode Topics End-->
