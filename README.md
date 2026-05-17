@@ -19,6 +19,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
+| [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
@@ -83,4 +84,5 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
