@@ -20,6 +20,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [2540-minimum-common-value](https://github.com/samreen-sk/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -89,4 +90,24 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 <!---LeetCode Topics End-->
