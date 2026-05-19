@@ -33,6 +33,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/samreen-sk/DSA/tree/main/0263-ugly-number/) | Easy |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,8 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 <!---LeetCode Topics End-->
