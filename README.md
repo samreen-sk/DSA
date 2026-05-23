@@ -22,6 +22,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2540-minimum-common-value](https://github.com/samreen-sk/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
