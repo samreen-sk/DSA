@@ -52,6 +52,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
