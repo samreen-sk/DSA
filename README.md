@@ -39,6 +39,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/samreen-sk/DSA/tree/main/0263-ugly-number/) | Easy |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
+| [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,9 +128,14 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
+| [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
 <!---LeetCode Topics End-->
