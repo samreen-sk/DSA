@@ -23,6 +23,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -146,8 +147,13 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
