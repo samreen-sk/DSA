@@ -21,6 +21,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
+| [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -32,6 +33,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Math
@@ -143,6 +145,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
