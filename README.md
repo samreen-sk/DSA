@@ -20,6 +20,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samreen-sk/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/samreen-sk/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -146,6 +147,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/samreen-sk/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
@@ -155,5 +157,6 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/samreen-sk/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
