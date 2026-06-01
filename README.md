@@ -29,6 +29,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/samreen-sk/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -78,6 +79,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
