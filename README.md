@@ -63,6 +63,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -138,4 +139,12 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/samreen-sk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
