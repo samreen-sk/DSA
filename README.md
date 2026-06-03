@@ -17,6 +17,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/samreen-sk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/samreen-sk/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -52,6 +53,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/samreen-sk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
