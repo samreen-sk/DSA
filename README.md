@@ -46,6 +46,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0263-ugly-number](https://github.com/samreen-sk/DSA/tree/main/0263-ugly-number/) | Easy |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/samreen-sk/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/samreen-sk/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/samreen-sk/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
