@@ -6,6 +6,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/samreen-sk/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/samreen-sk/DSA/tree/main/0061-rotate-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -169,4 +170,8 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/samreen-sk/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/samreen-sk/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
