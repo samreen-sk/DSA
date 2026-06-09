@@ -30,6 +30,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/samreen-sk/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -149,6 +150,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
