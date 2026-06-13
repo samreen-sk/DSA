@@ -37,12 +37,14 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/samreen-sk/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/samreen-sk/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/samreen-sk/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samreen-sk/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/samreen-sk/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
