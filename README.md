@@ -29,6 +29,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0739-daily-temperatures](https://github.com/samreen-sk/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0741-cherry-pickup](https://github.com/samreen-sk/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -127,6 +128,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0741-cherry-pickup](https://github.com/samreen-sk/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/samreen-sk/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -155,6 +157,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0741-cherry-pickup](https://github.com/samreen-sk/DSA/tree/main/0741-cherry-pickup/) | Hard |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
