@@ -37,6 +37,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [1480-running-sum-of-1d-array](https://github.com/samreen-sk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samreen-sk/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/samreen-sk/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -57,6 +58,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0263-ugly-number](https://github.com/samreen-sk/DSA/tree/main/0263-ugly-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samreen-sk/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/samreen-sk/DSA/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samreen-sk/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2929-distribute-candies-among-children-ii](https://github.com/samreen-sk/DSA/tree/main/2929-distribute-candies-among-children-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/samreen-sk/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
@@ -190,4 +192,8 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/samreen-sk/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samreen-sk/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
