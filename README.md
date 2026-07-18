@@ -33,6 +33,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/samreen-sk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -60,6 +61,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/samreen-sk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/samreen-sk/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
