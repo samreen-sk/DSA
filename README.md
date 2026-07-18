@@ -87,6 +87,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1528-shuffle-string](https://github.com/samreen-sk/DSA/tree/main/1528-shuffle-string/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/samreen-sk/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samreen-sk/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/samreen-sk/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/samreen-sk/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -104,6 +105,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/samreen-sk/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/samreen-sk/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/samreen-sk/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
