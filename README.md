@@ -34,6 +34,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samreen-sk/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/samreen-sk/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/samreen-sk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -49,6 +50,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/samreen-sk/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/samreen-sk/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/samreen-sk/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/samreen-sk/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
