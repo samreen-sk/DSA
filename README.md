@@ -36,6 +36,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samreen-sk/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/samreen-sk/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/samreen-sk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/samreen-sk/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/samreen-sk/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samreen-sk/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samreen-sk/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -85,6 +86,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1528-shuffle-string](https://github.com/samreen-sk/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samreen-sk/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/samreen-sk/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/samreen-sk/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
