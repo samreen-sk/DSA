@@ -25,6 +25,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0238-product-of-array-except-self](https://github.com/samreen-sk/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/samreen-sk/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/samreen-sk/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/samreen-sk/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0665-non-decreasing-array](https://github.com/samreen-sk/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/samreen-sk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/samreen-sk/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -78,6 +79,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0001-two-sum](https://github.com/samreen-sk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/samreen-sk/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/samreen-sk/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/samreen-sk/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -91,6 +93,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0205-isomorphic-strings](https://github.com/samreen-sk/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/samreen-sk/DSA/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1528-shuffle-string](https://github.com/samreen-sk/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/samreen-sk/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
