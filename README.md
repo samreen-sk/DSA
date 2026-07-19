@@ -76,6 +76,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/samreen-sk/DSA/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/samreen-sk/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/samreen-sk/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -87,6 +88,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/samreen-sk/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/samreen-sk/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
