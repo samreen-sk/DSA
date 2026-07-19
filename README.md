@@ -33,6 +33,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0832-flipping-an-image](https://github.com/samreen-sk/DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/samreen-sk/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/samreen-sk/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/samreen-sk/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samreen-sk/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/samreen-sk/DSA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/samreen-sk/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -77,6 +78,7 @@ Repository containing all my Leet Code submissions and DSA practice solutions.
 | [0001-two-sum](https://github.com/samreen-sk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/samreen-sk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samreen-sk/DSA/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/samreen-sk/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/samreen-sk/DSA/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/samreen-sk/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2540-minimum-common-value](https://github.com/samreen-sk/DSA/tree/main/2540-minimum-common-value/) | Easy |
